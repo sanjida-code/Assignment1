@@ -10,7 +10,7 @@ p{
 li{
     font-size: 17px;
 }
-.flex-section{
+#flex-section{
     display: flex;
 }
 .section1-half{
@@ -47,13 +47,7 @@ li{
 .center-text{
     text-align: center;
 }
-.text-img{
-    background-image: url(shapes/shape-7.png);
-    background-position: 400px;
-    background-repeat: no-repeat;
-    background-size: 80px;
-}
-.section-2{
+#section-2{
     display: flex;
 }
 #about-ssc{
@@ -77,10 +71,10 @@ li{
     background-color: rgb(222, 250, 255);
     border-radius: 30px;
 }
-.section-2 img{
+#section-2 img{
     width: 50%;
 }
-.flex-section3{
+#flex-section3{
     display: flex;
     background-image: url(shapes/shape-1.png);
     background-position: left;
@@ -88,7 +82,7 @@ li{
     background-size: 220px;
     margin: 40px;
 }
-.flex-section3 img{
+#flex-section3 img{
     width: 100%;
 }
 #section3-half-img{
@@ -96,19 +90,19 @@ li{
     margin-left: 100px;
     margin-top: 100px;
 }
-.section3-half{
+#section3-half{
     margin-top: 100px;
     margin-right: 150px;
     margin-left: 70px;
 }
-.flex-section4{
+#flex-section4{
     display: flex;
     background-image: url(shapes/shape-1.png);
     background-position: 1080px 380px;
     background-repeat: no-repeat;
     background-size: 180px;
 }
-.flex-section5{
+#flex-section5{
     display: flex;
     background-image: url(shapes/shape-4.png);
     background-position: left 15px;
