@@ -1,0 +1,151 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 17px;
+}
+.flex-section{
+    display: flex;
+}
+.section1-half{
+    width: 50%;
+    padding-left: 20px;
+    margin: 100px;
+}
+.section1-half img{
+    width: 90%;
+}
+#color-left-border h1{
+    font-size: 55px;
+}
+#color-left-border{
+    
+    border-radius: 4px;
+    border-left: 4px solid;
+    border-color: blueviolet;
+    padding-left: 10px;
+    margin-top: 0px;
+    font-family: 'Philosopher', sans-serif;
+}
+.crimson-color{
+    color: crimson;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(130, 241, 176),rgb(24, 248, 35));
+    color: white;
+    font-weight: 700;
+}
+.center-text{
+    text-align: center;
+}
+.text-img{
+    background-image: url(shapes/shape-7.png);
+    background-position: 400px;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.section-2{
+    display: flex;
+}
+#about-ssc{
+    margin-left: 150px;
+    width: 20%;
+    padding: 30px;
+    background-color: rgb(200, 255, 200);
+    border-radius: 30px;
+}
+#about-hsc{
+    margin-left: 30px;
+    width: 20%;
+    padding: 30px;
+    background-color: rgb(253, 217, 251);
+    border-radius: 30px;
+}
+#about-bsc{
+    margin-left: 30px;
+    width: 20%;
+    padding: 30px;
+    background-color: rgb(222, 250, 255);
+    border-radius: 30px;
+}
+.section-2 img{
+    width: 50%;
+}
+.flex-section3{
+    display: flex;
+    background-image: url(shapes/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 220px;
+    margin: 40px;
+}
+.flex-section3 img{
+    width: 100%;
+}
+#section3-half-img{
+    width: 100%;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.section3-half{
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-left: 70px;
+}
+.flex-section4{
+    display: flex;
+    background-image: url(shapes/shape-1.png);
+    background-position: 1080px 380px;
+    background-repeat: no-repeat;
+    background-size: 180px;
+}
+.flex-section5{
+    display: flex;
+    background-image: url(shapes/shape-4.png);
+    background-position: left 15px;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+
+input{
+    height: 30px;
+    width: 400px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(47, 0, 255);
+}
+#message{
+    height: 150px;
+    width: 400px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 0, 119);
+}
+
+#contact-img{
+    border-radius: 30px;
+}
+footer{
+    background-color: black;
+    padding: 20px;
+}
+footer h1{
+    text-align: center;
+    color: white;
+    font-family: 'Vidaloka', sans-serif;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
